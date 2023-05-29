@@ -1,0 +1,1 @@
+ // printf("\n%s\t%6d\t\t%6d\t%6d\t%6d\t%6d", processname[i], arrivaltime[i], burtstime[i], startTime[i], tarminateTime[i], finishTime[i]);

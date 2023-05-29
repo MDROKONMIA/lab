@@ -1,0 +1,12 @@
+Enter the number of process:
+Enter process id, arrival time , burst time & priority: 
+Enter process id, arrival time , burst time & priority: 
+Enter process id, arrival time , burst time & priority: 
+123
+Process ID	 Arrival Time	 Burst Time	 Priority	 Waiting Time	 Complition Time	 Turn Arround Time
+1				 2				 3				 1				 0				 5				 3
+2				 4				 5				 2				 1				 10				 6
+3				 5				 6				 3				 5				 16				 11
+
+Average waiting time: 2
+Average termiante time: 6.66667
